@@ -21,3 +21,4 @@ def portScanner():
     
 if __name__=='__main__':
     portScanner()
+print("Hey")
